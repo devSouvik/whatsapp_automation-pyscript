@@ -1,6 +1,8 @@
+#  step 1- -> pip install pywhatkit <- in your IDE terminal or if you are using anaconda notepad write -> conta install pywhatkit
+
+
 import pywhatkit as kit
 
-#  step 1- -> pip install pywhatkit <- in your IDE terminal or if you are using anaconda notepad write -> conta install pywhatkit
 
 #  step 2 -> open whatsapp web in your preferred browser and be logged in with your whatsapp account
 
